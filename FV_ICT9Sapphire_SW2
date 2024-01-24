@@ -1,0 +1,40 @@
+ <!DOCTYPE html>
+ <html>
+    <head>
+        <title>2nd Qtr SW1</title>
+         <style>
+            #maindiv{
+            display: flex;
+            text-align: justify;
+            }
+            #div1, #div2, #div3{
+            width: 150px;
+            padding:50px;
+            border: 10px solid #2B547E;
+            margin:20px;
+            border-style: outset;
+            background-color: #B0E0E6;
+            }
+            </style>
+    </head>
+    <body>
+        <h1>Nono's Menu</h1>
+        <div id="maindiv">  
+                    <div id="div1">
+                        <h1><img src="https://images.app.goo.gl/UFytcaR43z7x5uLj9" width="200px" height="90px"><p>Truffle Cream</p></h1>
+                        <div id="div2">
+                        <h1><img src="https://images.app.goo.gl/KLsyC2ujq2RAukdC6" width="200px" height="90px"><p>Carbonara</p></h1>
+                        <div id="div3">
+                        <h1><img src="https://images.app.goo.gl/ambiuMsE5jiCqhZn7" width="200px" height="90px"><p>Mac'n Cheese</p></h1>
+                        <div id="div4">
+                        <h1><img src="https://images.app.goo.gl/pUy8UEErfCS8uGdP9" width="200px" height="90px"><p>Tomato & Basil</p></h1>
+                        <div id="div5">
+                        <h1><img src="https://images.app.goo.gl/b9NkyZpLk5YL9S4Z7" width="200px" height="90px"><p>Classic Bolognese</p></h1>
+                        </div>
+                </body> 
+ </html>
+
+
+                        
+       
+                
